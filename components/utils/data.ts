@@ -1,5 +1,6 @@
 export const data = [
   {
+    id:'1',
     title: "MapX Optimisation",
     description: "Design MapX Dashboard",
     user: "Ayodele Davies",
@@ -7,6 +8,7 @@ export const data = [
     status: 'Ongoing',
   },
   {
+    id:'2',
     title: "Farm Edu",
     description: "Farmlands digitalization",
     user: "Adekunle Adebowale",
@@ -14,6 +16,7 @@ export const data = [
     status:'Ongoing'
   },
   {
+    id:'3',
     title: "Ticketing",
     description: "Creating tasks",
     user: "Akinmorin Rodiat",
@@ -21,6 +24,7 @@ export const data = [
     status:'Not started'
   },
   {
+    id:'4',
     title: "BMS",
     description: "Budgeting System",
     user: "Chisom Okeoma",
