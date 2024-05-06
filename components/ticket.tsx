@@ -44,7 +44,7 @@ const Ticket = ({
             project.status === "Ongoing"
               ? "#2ecc71"
               : project.status === "Not started"
-              ? "#95a5a6"
+              ? "#E1261C"
               : "#3498db"
           }
         />

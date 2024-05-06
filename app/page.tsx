@@ -25,7 +25,7 @@ export default function Home() {
 
   return (
     <main className="h-screen flex justify-center items-center flex-1">
-      <div className=" mx-auto flex gap-5 border justify-center rounded-xl p-4  overflow-auto shadow">
+      <div className=" mx-auto flex flex-wrap gap-5 border  rounded-xl p-4  overflow-auto shadow">
         {status.map((item, idx) => (
           <div
             key={idx}
